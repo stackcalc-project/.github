@@ -1,6 +1,4 @@
-<img src="https://github.com/stackcalc-project/stackcalc/blob/main/logo.png" align="right" style="margin:0; padding:0" width="100px"/>
-<div style="height:20px; width:100%;"></div>
-<br clear="left"/>
+<img src="https://github.com/stackcalc-project/stackcalc/blob/main/logo.png" align="right" width="80px" height="80px"/>
 
 ## About
 
