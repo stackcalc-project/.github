@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://github.com/stackcalc-project/" target="_blank" align="center" alt="Go to StackCalc's github page">
+    <picture>
+      <source width="200" media="(prefers-color-scheme: dark)" srcset="https://github.com/stackcalc-project/.github/raw/master/profile/stackcalc-logo-dark.svg">
+      <source width="200" media="(prefers-color-scheme: light)" srcset="https://github.com/stackcalc-project/.github/raw/master/profile/stackcalc-logo-light.svg">
+      <img width="200" src="https://github.com/stackcalc-project/stackcalc/raw/master/logo.png" alt="StackCalc logo">
+    </picture>
+  </a>
+</p>
+
 ## Hi there 👋
 
 <!--
