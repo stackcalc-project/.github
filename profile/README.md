@@ -1,14 +1,10 @@
-<p align="center">
-  <a href="https://github.com/stackcalc-project/" target="_blank" align="center" alt="Go to StackCalc's github page">
-    <picture>
-      <source width="200" media="(prefers-color-scheme: dark)" srcset="https://github.com/stackcalc-project/.github/blob/main/profile/stackcalc-logo-dark.svg">
-      <source width="200" media="(prefers-color-scheme: light)" srcset="https://github.com/stackcalc-project/.github/blob/main/profile/stackcalc-logo-light.svg">
-      <img width="200" src="https://github.com/stackcalc-project/stackcalc/blob/main/logo.png" alt="StackCalc logo">
-    </picture>
-  </a>
-</p>
+<img src="https://github.com/stackcalc-project/stackcalc/blob/main/logo.png" align="right" style="margin:0; padding:0" width="100px"/>
+<div style="height:20px; width:100%;"></div>
+<br clear="left"/>
 
-## Hi there 👋
+## About
+
+This is the official github organization page of The StackCalc Project.
 
 <!--
 
