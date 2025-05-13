@@ -1,4 +1,4 @@
-<img src="https://github.com/stackcalc-project/stackcalc/blob/main/logo.png" align="right" width="80px" height="80px"/>
+<img src="https://github.com/stackcalc-project/stackcalc/blob/main/logo.png" align="right" width="80px" height="80px" style="margin-right: 100px"/>
 
 ## About
 
