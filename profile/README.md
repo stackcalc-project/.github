@@ -1,5 +1,3 @@
-<img src="https://github.com/stackcalc-project/.github/blob/main/logo.png" align="right" width="60px" height="60px"/>
-
 ## About
 
 This is the official github organization page of The StackCalc Project.
