@@ -1,6 +1,10 @@
-## About
+# About
 
 This is the official github organization page of The StackCalc Project.
+
+## Architecture
+
+![overview](architecture-overview.drawio.svg)
 
 <!--
 
